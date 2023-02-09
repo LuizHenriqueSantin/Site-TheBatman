@@ -15,11 +15,15 @@ function Compra(){
             setStyle1("unselected");
             setStyle2("unselected");
             setPreco(0);
+            const x = 0;
+            valor1(x);
         }
         else if(style1 === "unselected"){
             setStyle1("selected");
             setStyle2("unselected");
             setPreco(19.99);
+            const x = 19.99;
+            valor1(x);
         }
     }
 
@@ -28,12 +32,21 @@ function Compra(){
             setStyle1("unselected");
             setStyle2("unselected");
             setPreco(0);
+            const x = 0;
+            valor1(x);
         }
         else if(style2 === "unselected"){
             setStyle1("unselected");
             setStyle2("selected");
             setPreco(24.99);
+            const x = 24.99;
+            valor1(x);
         }
+    }
+
+    function valor1(preco1) {
+        const tickets = document.getElementById('value').value;
+        setTotal(preco1*tickets);
     }
 
     function valor() {

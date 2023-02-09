@@ -11,21 +11,22 @@ function Comentarios(){
                         <div className="fotocoment"></div>
                         <div className="avaliacao">
                             <div className="nota"></div>
-                            <div className="comentario-texto">Texto aleatorio sendo escrito para testar o css dessa div fingindo ser um comentario sobre o filme</div>
+                            <div className="comentario-texto">Filme sensacional. Foi um dos melhores filmes de heróis que já assisti. Robert Pattinson ficou incrível e combina muito bem com o personagem. Parabéns Matt Reeves!!</div>
                         </div>
                     </div>
                     <div className="comentario">
                         <div className="fotocoment"></div>
                         <div className="avaliacao">
                             <div className="nota"></div>
-                            <div className="comentario-texto">Texto aleatorio 2 sendo escrito para testar o css dessa div fingindo ser um comentario sobre o filme</div>
+                            <div className="comentario-texto">Maravilhoso. Superou todas as expectativas. O Batman que sempre quisemos ver no cinema, diferente de todos os outros, profundo, almático, detetive, triste. Enfim, sem palavras. De longe um dos melhores filmes de super herói. Batman mais uma vez sendo arte.</div>
                         </div>
                     </div>
                     <div className="comentario">
                         <div className="fotocoment"></div>
                         <div className="avaliacao">
                             <div className="nota"></div>
-                            <div className="comentario-texto">Texto aleatorio 3 sendo escrito para testar o css dessa div fingindo ser um comentario sobre o filme</div>
+                            <div className="comentario-texto">Gostei muito do filme, o Batman volta a origens do maior investigador do mundo.
+Nesse filme o Batman não é visto como um herói.</div>
                         </div>
                     </div>  
                 </div>
