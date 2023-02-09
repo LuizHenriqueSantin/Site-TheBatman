@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: 0;
+    list-style: none;
+}
+
+.body-compra {
+    height: 602px;
+    background-color: #b40000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 50px;
+    align-items: center;
+}
+
+.select-2d-3d {
+    width: 600px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.d2 {
+    width: 250px;
+    height: 70px;
+    font-size: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.d3 {
+    width: 250px;
+    height: 70px;
+    font-size: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.ingressos-container {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.numero-ingressos {
+    width: 600px;
+    height: 70px;
+    background-color: black;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.compra-container {
+    width: 600px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.valortotal {
+    width: 250px;
+    height: 70px;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.finalizarcompra {
+    background-color: black;
+    width: 250px;
+    height: 70px;
+    font-size: 25px;
+    border-radius: 15px;
+    color: white;
+    transition: 0.5s;
+}
+
+.finalizarcompra:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: black;
+    width: 250px;
+    height: 70px;
+    font-size: 25px;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+.unselected {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 250px;
+    height: 70px;
+    font-size: 25px;
+    border-radius: 15px;
+    color: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+}
