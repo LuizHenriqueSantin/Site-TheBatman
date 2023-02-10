@@ -14,8 +14,8 @@
 }
 
 .previous2 {
-    width: 100px;
-    height: 100px;
+    width: 10.31vh;
+    height: 10.31vh;
     border-radius: 50%;
     background-image: url("../../../assets/previous.png");
     background-size: cover;
@@ -24,8 +24,8 @@
 }
 
 .next2 {
-    width: 100px;
-    height: 100px;
+    width: 10.31vh;
+    height: 10.31vh;
     border-radius: 50%;
     background-image: url("../../../assets/next.png");
     background-size: cover;
@@ -34,8 +34,8 @@
 }
 
 .photo2 {
-    width: 1280px;
-    height: 720px;
+    width: 131.96vh;
+    height: 74.23vh;
     background-image: url("../../../assets/imagem2.jpeg");
     background-size: cover;
     background-repeat: no-repeat;

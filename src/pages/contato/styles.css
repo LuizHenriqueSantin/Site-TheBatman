@@ -6,7 +6,7 @@
 }
 
 .bodycontato {
-    height: 602px;
+    height: 61.19vh;
     background-color: #b40000;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -23,29 +23,29 @@
 
 .containercontato {
     width: 80%;
-    height: 200px;
+    height: 20.62vh;
     background-color: rgba(00, 00, 00, 0.2);
-    border-radius: 20px;
+    border-radius: 2.06vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
 
 .linkinsta {
-    height: 100px;
-    width: 100px;
+    height: 10.31vh;
+    width: 10.31vh;
     background-image: url("../../assets/instagram.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 28px;
+    border-radius: 2.89vh;
     transition: 0.5s;
 }
 
 .warnerimg {
-    width: 200px;
-    height: 150px;
-    border-radius: 15px;
+    width: 20.62vh;
+    height: 15.46vh;
+    border-radius: 1.55vh;
     background-image: url("../../assets/warner.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -53,9 +53,9 @@
 }
 
 .robertimg {
-    width: 200px;
-    height: 150px;
-    border-radius: 15px;
+    width: 20.62vh;
+    height: 15.46vh;
+    border-radius: 1.55vh;
     background-image: url("../../assets/robpattinson.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -63,9 +63,9 @@
 }
 
 .zoeimg {
-    width: 200px;
-    height: 150px;
-    border-radius: 15px;
+    width: 20.62vh;
+    height: 15.46vh;
+    border-radius: 1.55vh;
     background-image: url("../../assets/zoekravitz.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -73,9 +73,9 @@
 }
 
 .jeffreyimg {
-    width: 200px;
-    height: 150px;
-    border-radius: 15px;
+    width: 20.62vh;
+    height: 15.46vh;
+    border-radius: 1.55vh;
     background-image: url("../../assets/jeffreywright.jpeg");
     background-size: cover;
     background-repeat: no-repeat;

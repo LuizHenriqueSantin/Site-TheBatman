@@ -6,7 +6,7 @@
   }
   .banner{
     width: 100%;
-    height: 600px;
+    height: 60vh;
     background-image: url(../../assets/banner.jpeg);
     background-repeat: 1;
     background-size: cover;
@@ -14,32 +14,32 @@
   }
   .containerhome{
     width: 100%;
-    height: 400px;
+    height: 41.24vh;
     background-color: black;
     display: flex;
     justify-content: center;
-    column-gap: 50px;
+    column-gap: 5.15vh;
   }
   .video{
-    height: 400px;
+    height: 41.24vh;
   }
   .sinopse{
     width: 35%;
     color: white;
-    font-size: 23px;
+    font-size: 2.37vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    row-gap: 35px;
+    row-gap: 3.61vh;
   }
   .botao {
     background-color: #b40000;
-    width: 250px;
-    height: 70px;
-    font-size: 25px;
-    border-radius: 15px;
+    width: 25.77vh;
+    height: 7.22vh;
+    font-size: 2.58vh;
+    border-radius: 1.55vh;
     color: white;
     transition: 0.5s;
   }
@@ -50,53 +50,53 @@
   }
   .actors{
     width: 100%;
-    height: 800px;
+    height: 82.47vh;
     background-color: black;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-items: center;
     color: white;
-    font-size: 20px;
+    font-size: 2.06vh;
     align-items: center;
   }
   .batman{
     width: 80%;
-    height: 600px;
+    height: 61.86vh;
     background-image: url(../../assets/robert.jpeg);
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-    padding: 10px 10px;
+    padding: 1vh 1vh;
     transition: 0.5s;
-    border-radius: 20px;
+    border-radius: 2.06vh;
   }
   .catwoman{
     width: 80%;
-    height: 600px;
+    height: 61.86vh;
     background-image: url(../../assets/zoe.jpeg);
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-    padding: 10px 10px;
+    padding: 1vh 1vh;
     transition: 0.5s;
-    border-radius: 20px;
+    border-radius: 2.06vh;
   }
   .gordon{
     width: 80%;
-    height: 600px;
+    height: 61.86vh;
     background-image: url(../../assets/jeffrey.jpeg);
     background-size: cover;
     background-position: top center;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-    padding: 10px 10px;
+    padding: 1vh 1vh;
     transition: 0.5s;
-    border-radius: 20px;
+    border-radius: 2.06vh;
   }
   .batman:hover{
     transform: scale(1.05);

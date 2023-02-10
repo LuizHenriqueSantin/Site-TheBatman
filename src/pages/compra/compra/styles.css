@@ -6,72 +6,72 @@
 }
 
 .body-compra {
-    height: 602px;
+    height: 61.19vh;
     background-color: #b40000;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    row-gap: 50px;
+    row-gap: 5.15vh;
     align-items: center;
 }
 
 .select-2d-3d {
-    width: 600px;
-    height: 70px;
+    width: 61.86vh;
+    height: 7.22vh;
     display: flex;
     justify-content: space-between;
 }
 
 .d2 {
-    width: 250px;
-    height: 70px;
-    font-size: 25px;
-    border-radius: 15px;
+    width: 25.77vh;
+    height: 7.22vh;
+    font-size: 2.58vh;
+    border-radius: 1.55vh;
     cursor: pointer;
 }
 
 .d3 {
-    width: 250px;
-    height: 70px;
-    font-size: 25px;
-    border-radius: 15px;
+    width: 25.77vh;
+    height: 7.22vh;
+    font-size: 2.58vh;
+    border-radius: 1.55vh;
     cursor: pointer;
 }
 
 .ingressos-container {
-    font-size: 20px;
+    font-size: 2.06vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     color: white;
     background-color: black;
-    border-radius: 15px;
+    border-radius: 1.55vh;
 }
 
 .numero-ingressos {
-    width: 600px;
-    height: 70px;
+    width: 61.86vh;
+    height: 7.22vh;
     background-color: black;
-    border-radius: 15px;
+    border-radius: 1.55vh;
     display: flex;
     align-items: center;
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 2.58vh;
 }
 
 .compra-container {
-    width: 600px;
-    height: 70px;
+    width: 61.86vh;
+    height: 7.22vh;
     display: flex;
     justify-content: space-between;
 }
 
 .valortotal {
-    width: 250px;
-    height: 70px;
-    font-size: 25px;
-    border-radius: 15px;
+    width: 25.78vh;
+    height: 7.22vh;
+    font-size: 2.58vh;
+    border-radius: 1.55vh;
     background-color: black;
     display: flex;
     align-items: center;
@@ -81,10 +81,10 @@
 
 .finalizarcompra {
     background-color: black;
-    width: 250px;
-    height: 70px;
-    font-size: 25px;
-    border-radius: 15px;
+    width: 25.78vh;
+    height: 7.22vh;
+    font-size: 2.58vh;
+    border-radius: 1.55vh;
     color: white;
     transition: 0.5s;
 }
@@ -97,20 +97,20 @@
 
 .selected {
     background-color: black;
-    width: 250px;
-    height: 70px;
-    font-size: 25px;
-    border-radius: 15px;
+    width: 25.78vh;
+    height: 7.22vh;
+    font-size: 2.58vh;
+    border-radius: 1.55vh;
     color: white;
     cursor: pointer;
 }
 
 .unselected {
     background-color: rgba(0, 0, 0, 0.5);
-    width: 250px;
-    height: 70px;
-    font-size: 25px;
-    border-radius: 15px;
+    width: 25.78vh;
+    height: 7.22vh;
+    font-size: 2.58vh;
+    border-radius: 1.55vh;
     color: rgba(255, 255, 255, 0.5);
     cursor: pointer;
 }
